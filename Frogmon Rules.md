@@ -1,13 +1,17 @@
 # Frogmon
 Frogmon - Extreme Kaizo Ironmon
 
-Kaizo Ironmon EXTREME Frog Edition (Patent Pending)
-
 What is the goal? A tougher Kaizo-like experience that offers a blend of traditional Kaizo and Survival rulesets, as well as introducing new rules. More difficult than Kaizo, but with a fresh spin.
 
-You may choose your starter! But...
+Based off the official ironmon ruleset: https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1
 
-...No mons 540 BST or higher unless they are evolved into. (Arcanine, Blissey, Gyarados, Kingdra, Milotic, Snorlax, etc)
+##Frogmon Ruleset
+
+| Rule             | Details                                                 | Notes |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Randomize the game | All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%.  | Full randomizer settings below |
+| Choose your destiny | You may choose your starter. | However... (see below) |     
+| BST Restriction | No mons 540 BST or higher unless they are evolved into. (Arcanine, Blissey, Gyarados, Kingdra, Milotic, Snorlax, etc) | You can find a list of BST (Base Stats Total) here: https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VIII-present)
 
 Each "route" with trainers is considered a mini-dungeon. This means that you can fight trainers only ONCE in that route. Some routes must be visited twice or more for story progress but the first time you fight a trainer in a route, that triggers the "mini-dungeon". What this means is that is you fail to clear all "required" trainers to fully progress in specific routes in one go (for example a clear path towards Bill's house) the run is OVER. Once you leave the route to heal you may never fight any additonal trainers in that route. You MAY skip optional trainers, but you may never fight them if you've completed that area's dungeon/mini-dungeon.
   Things to watch out for:
