@@ -43,6 +43,9 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | No Boosting Items in Elite 4 | You are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | |
 | No Excessive Setup in Elite 4 | You are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | |
 
+## Settings String
+
+FireRed LeafGreen Pokemon Randomizer ZX setting string (version 4.5.0 required): 319WRIEEjIBAAQABwCRAAKeBnsEiAEAFAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyEwUAEEZpcmUgUmVkIChVKSAxLjHRHQLnivRugg==
 
 ## Frequently Asked Rule Clarifications
 
