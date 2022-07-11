@@ -1,11 +1,11 @@
-# Frogmon
-Frogmon - Extreme Kaizo Ironmon
+# Keromon
+Keromon - Extreme Kaizo Ironmon
 
 What is the goal? A tougher Kaizo-like experience that offers a blend of traditional Kaizo and Survival rulesets, as well as introducing new rules. More difficult than Kaizo, but with a fresh spin.
 
 Based off the official ironmon ruleset: https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1
 
-## Frogmon Ruleset
+## Keromon Ruleset
 
 | Rule | Details | Notes |
 |---|----------------------------------|---|
