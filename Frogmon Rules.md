@@ -19,7 +19,6 @@ Based off the official ironmon ruleset: https://gist.github.com/valiant-code/adb
 | PP Item restrictions | You may only use one PP Up per move. No PP Max allowed. You can however trade in PP Max for a single Hyper Potion or 3 status healing items | |
 | The setup move restriction on E4+Champ is still in play. | | |
 | The X-item restriction on E4+Champ is still in play. | | |
-| Important Trainer's Pokemon get Held Items. | | |
 | No Excessive Stalling rule still applies. | | |
 | All TMs from Gyms are learnable. | | |
 
@@ -31,10 +30,12 @@ Pokemon Tower Rival is required to fight the first time you enter Lavender Town,
 
 Pokemon Tower healing Pad may be used ONLY IF you consider the dungeon done and will have no more fights for that entry(Rival/Silph Scope). If you use the pad and entering another fight during that entry, the run is OVER. No exceptions.
 
-Some considerations that I may implement:
+Some considerations that may implemented, dependent on testing:
 
 Prepare for the Gauntlet: Immediately after defeating Brock, you may purchase 5 Potions and 1 of each of the following: Antidote, Parlyz Heal, Awakening, Burn Heal. No exceptions for mons that are immune to any of these statuses (A poison mon can not instead buy an extra Parlyz Heal instead of taking the Antidote)
 
 The flute mechanic/trade in rule is still in play.
 
 Banned Abilities applies: If your pokemon has BST of 400 or more, the following abilities are banned: Huge Power/Pure Power, Battle Armor/Shell Armor, Parental Bond, Protean, Fur Coat, Magic Guard
+
+Important Trainer's Pokemon get Held Items.
