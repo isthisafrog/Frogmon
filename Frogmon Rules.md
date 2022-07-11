@@ -16,7 +16,7 @@ Based off the official ironmon ruleset: https://gist.github.com/valiant-code/adb
 | Mini-Dungeon Exceptions | Viridian Forest, as it would be nearly impossible to get through the early game if this was considered a dungeon<br/>Pokemon tower, as it must be entered twice for in initial Rival fight (as per standard kaizo rules) and then story progression (Silph Scope)<br/>Rival in Celeadon and the Rocket behind the house in Celadon are considered separate mini-dungeons. |
 | Status Heal trade-in | Status heals of one specific type may be traded in at a 2:1 ratio for status heals of another specific type. | For example, 2 Antidotes for 1 Paralyze Heal. No Full Heals or Full Restores. (Eligible types: Antidote, Ice Heal, Burn Heal, Paralyze Heal) |
 | Healing Item Restrictions | You may use items outside of battle only in Routes and Towns | This means you cannot use items outside of battle in Mt. Moon, S.S. Anne, Rock Tunnel, Game Center, Rocket Hideout, Pokemon Tower, Pokemon Mansion, Silph Co, Fighting Dojo, all Gyms, Victory Road, and Elite 4.
-| The PP Max restriction/trade in rule is still in play. | | |
+| PP Item restrictions | You may only use one PP Up per move. No PP Max allowed. You can however trade in PP Max for a single Hyper Potion or 3 status healing items | |
 | The setup move restriction on E4+Champ is still in play. | | |
 | The X-item restriction on E4+Champ is still in play. | | |
 | Important Trainer's Pokemon get Held Items. | | |
@@ -33,10 +33,8 @@ Pokemon Tower healing Pad may be used ONLY IF you consider the dungeon done and 
 
 Some considerations that I may implement:
 
-Prepare for the Gauntlet: Immediately after defeating Brock, you may purchase 1 of each of the following before heading to Route 3: Potion, Antidote, Parlyz Heal, Awakening, Burn Heal. No exceptions for mons that are immune to any of these statuses (A poison mon can't instead buy an extra Parlyz Heal instead of taking the Antidote)
+Prepare for the Gauntlet: Immediately after defeating Brock, you may purchase 5 Potions and 1 of each of the following: Antidote, Parlyz Heal, Awakening, Burn Heal. No exceptions for mons that are immune to any of these statuses (A poison mon can not instead buy an extra Parlyz Heal instead of taking the Antidote)
 
 The flute mechanic/trade in rule is still in play.
 
 Banned Abilities applies: If your pokemon has BST of 400 or more, the following abilities are banned: Huge Power/Pure Power, Battle Armor/Shell Armor, Parental Bond, Protean, Fur Coat, Magic Guard
-
-After defeating Brock, you may purchase five (5) potions from the Mart.
