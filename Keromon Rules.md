@@ -33,7 +33,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Status Heal trade-in | Status heals of one specific type may be traded in at a 2:1 ratio for status heals of another specific type. | For example, 2 Antidotes for 1 Paralyze Heal. No Full Heals or Full Restores. (Eligible types: Antidote, Ice Heal, Burn Heal, Paralyze Heal) <br/><br/>No mixing and matching. You cannot trade in 1 Ice Heal + 1 Awakeing for 1 Antidote. |
 | Healing Item Restrictions | You may use items outside of battle only in Routes and Towns | This means you cannot use items outside of battle in Mt. Moon, S.S. Anne, Rock Tunnel, Game Center, Rocket Hideout, Pokemon Tower, Pokemon Mansion, Silph Co, Fighting Dojo, all Gyms, Victory Road, and Elite 4. |
 | PP Item restrictions | You may only use one PP Up per move. No PP Max allowed. You can however trade in PP Max for a single Hyper Potion or 3 status healing items |  You may do the exchange multiple times if you find multiple PP Max |
-| TM Restrictions | Only Gym TMs are learnable. Randomly found TMs or TMs on your starter mon are not allowed to be learned. | If you find a TM that matches ones given by Gym leaders, you may not learn it until you defeat that specific Gym Leader |
+| TM Restrictions | All TMs are 50% randomly learnable, and you can learn one TM for each odd numbered Gym badge you obtain. This means you can learn a total of 4 TMs. (After Gyms 1,3,5,7) | This means that any TM you on the ground or earn from a Gym will potentially be able learnable.<br?<br/> |
 | HM Restrictions |	No HM Moves in Battle | The only time you may teach HM moves is to HM friends |
 | Stolen Items | You may not intentionally steal items from wild pokemon with moves like Thief, Covet, etc. |	If you steal from a pokemon that you do not end up catching in that battle, throw the item away. |
 | Shiny Clause |	If you encounter a shiny, you are allowed to kill it for EXP. |	You may not increase the shiny pokemon rate using the randomizer |
@@ -41,12 +41,12 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Important Trainer's Pokemon get Held Items. | The Randomizer option to add held items to Boss Trainers and Important Trainers must be enabled and set to Sensible Items. | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
 | No Excessive Stalling | You may only stall 5 turns per battle using balls or any item that is not sacrificed to waste a turn. |	This does not apply to wasting turns for your partner in a double battle. |
 | | <h3>Elite 4 Specific Rules</h3> | |
-| No Boosting Items in Elite 4 | You are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | |
-| No Excessive Setup in Elite 4 | You are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | |
+| No Boosting Items | In the Elite 4, you are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | |
+| No Excessive Setup | In the Elite 4, you are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | |
 
 ## Settings String
 
-FireRed LeafGreen Pokemon Randomizer ZX setting string (version 4.5.0 required): 319WRIEEjIBAAQABwCRAAKeBnsEiAEAFAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyEwUAEEZpcmUgUmVkIChVKSAxLjHRHQLnivRugg==
+FireRed LeafGreen Pokemon Randomizer ZX setting string (version 4.5.0 required): 319WRIEEjIBAAQABwCRAAKeBnsECQEACQACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyEwUAEEZpcmUgUmVkIChVKSAxLjE021GwivRugg==
 
 ## Frequently Asked Rule Clarifications
 
@@ -58,7 +58,10 @@ Pokemon Tower healing pad may be used ONLY IF you consider the dungeon done and 
 
 ## Some considerations that may implemented, dependent on testing
 
-Flute trade-in machanic?
+| Proposed Rule | Details | Notes |
+|---|----------------------------------|---|
+| Flute Favors	|Once per run you may go to a store to trade colored flutes. You may sell 1 of each color of flute, for each of which you may buy either 1 super potion, or any status healing item. If you collect a full set of all 5 Flutes (Red/Blue/Yellow/Black/White) you will be allowed to instead purchase a total of two Hyper Potion and five Full Heals. | You may only trade flutes once per run.	You may not redeem flutes for Full Restores. Once you turn any flute in, you may not return to a store to turn any other flutes in, even if you find a different color.
+| Move Tutors | You may learn from move tutors, however they count towards both the TM limit as well as must follow the TM learning restrictions (One for each Gym badge, 1,3,5,7). | |
 
 ## Recommended Resources
 
