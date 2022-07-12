@@ -3,6 +3,16 @@ Keromon - Extreme Kaizo Ironmon
 
 <b>What is the goal?</b> A tougher Kaizo-like experience that offers a blend of traditional Kaizo and Survival rulesets, as well as introducing new rules. More difficult than Kaizo, but with a fresh spin.
 
+The short of it, if you are already familiar with Kaizo:
+- You can now choose your mon
+- All routes are considered mini-dungeons and trainers must be fought before you visit a Pokecenter. If you fail to clear a path necessary for story progress before a Pokecenter visit, you lose. More detailed explanation in the full ruleset.
+- Purchase of items dependent of Pokemon BST after Brock/prior to Route 3
+- PP Max restriction with item trade-in
+- TMs are 50% learnable however you can use all TMs and Move Tutors available. You may only learn 1 TM for every odd number of Gym badges earned. (1st TM after Gym 1, 2nd after Gym 3, etc). This means you can potentially learn 4 TMs total.
+- You can use healing items outside of battle only in Towns and Routes (Including Cycling Road)
+- You can trade in some single-type status heals for other single-type status heals
+- Important trainer Pokemon get held items
+
 Based off the official ironmon ruleset: https://ironmon.gg
 
 ## Keromon Complete Ruleset
