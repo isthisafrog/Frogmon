@@ -8,7 +8,7 @@ The short of it, if you are already familiar with Kaizo:
 - 499 or less BST can go to Sevii Islands
 - All routes are considered mini-dungeons and trainers must be fought before you visit a Pokecenter. If you fail to clear a path necessary for story progress prior to your next Pokecenter visit, you lose. More detailed explanation in the full ruleset.
 - Purchase of items dependent of Pokemon BST after Brock/prior to Route 3
-- TMs are 50% learnable however you can learn from any source: Ground Items, Gyms, and Move Tutors. You may only learn 1 TM for every odd number of Gym badges earned. (1st TM after Gym 1, 2nd TM after Gym 3, etc). This means you can potentially learn 4 TMs total by the end of the game.
+- TMs are 50% learnable however you can learn from any source: Starter Held Item, Ground Items, Gyms, and Move Tutors. You may only learn 1 TM for every odd number of Gym badges earned. (1st TM after Gym 1, 2nd TM after Gym 3, etc). This means you can potentially learn 4 TMs total by the end of the game. Choose wisely what and when you learn.
 - You can use healing items outside of battle only in Towns and Routes (Including Cycling Road and Viridian Forest)
 - You can trade in some specific-type status heals for other specific-type status heals at a 2:1 ratio
 - Flute turn in mechanic (same as Survival)
