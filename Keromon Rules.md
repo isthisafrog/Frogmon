@@ -59,9 +59,6 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Don't Give Up Without a Fight |	You may not reset before the first battle if you don't like the starter Pokémon. After that it's fine. |	You might be surprised how far you can go with what looks like a terrible starter |
 | Important Trainer's Pokemon get Held Items | The Randomizer option to add held items to Boss Trainers and Important Trainers must be enabled and set to Sensible Items. | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
 | No Excessive Stalling | You may only stall 5 turns per battle using balls or any item that is not sacrificed to waste a turn. |	This does not apply to wasting turns for your partner in a double battle. |
-| | <h3>Elite 4 Specific Rules</h3> | |
-| No Boosting Items | In the Elite 4, you are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | |
-| No Excessive Setup | In the Elite 4, you are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | |
 
 ## Settings String
 
@@ -81,8 +78,10 @@ Pokemon Tower healing pad may be used ONLY IF you consider the dungeon done and 
 |---|----------------------------------|---|
 | More BST Restrictions | No mons 540 BST or higher unless they are evolved into. (Arcanine, Blissey, Gyarados, Kingdra, Milotic, Snorlax, Dragonite, Salamence, etc) | This is a rule I am very unsure about. Taking too many mons out of the viable pool may be annoying and turn people off from using these rules, but at the same time, 540+ BSt are some of the most winning Kaizo mons. |
 | More Banned Abilities | Restrictions for 500+ BST mons  :<br/><br/>Battle Armor/Shell Armor, Clear Body/White Smoke, Shed Skin, Volt Absorb, Water Absorb, Flash Fire, Levitate | I'm not sure if having too many restrictions will be anooying, but at the same time these abilities are very strong when coupled with specific mons (Ie Volt Absorb on Milotic) |
-| Flute Favors	|Once per run you may go to a store to trade colored flutes. You may sell 1 of each color of flute, for each of which you may buy either 1 super potion, or any status healing item. If you collect a full set of all 5 Flutes (Red/Blue/Yellow/Black/White) you will be allowed to instead purchase a total of two Hyper Potion and five Full Heals. You may only trade flutes once per run.	You may not redeem flutes for Full Restores. Once you turn any flute in, you may not return to a store to turn any other flutes in, even if you find a different color. |  I'm not sure if I want to carry this over from Survival to this ruleset. It may make too many HP heals/status heals available to players.
 | PP Item restrictions | You may only use one PP Up per move. No PP Max allowed. You can however trade in PP Max for a single Hyper Potion or 3 status healing items |  You may do the exchange multiple times if you find multiple PP Max |
+| | <h3>Elite 4 Specific Rules</h3> | |
+| No Boosting Items | In the Elite 4, you are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | |
+| No Excessive Setup | In the Elite 4, you are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | |
 
 
 ## Recommended Resources
