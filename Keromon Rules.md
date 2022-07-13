@@ -62,7 +62,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Important Trainer's Pokemon get Held Items | The Randomizer option to add held items to Boss Trainers and Important Trainers must be enabled and set to Sensible Items. | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
 | No Excessive Stalling | You may only stall 5 turns per battle using balls or any item that is not sacrificed to waste a turn. |	This does not apply to wasting turns for your partner in a double battle. |
 | | <h3>Elite 4 Specific Rule</h3> | |
-| No Excessive Setup | In the Elite 4, you are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | |
+| No Excessive Setup | In the Elite 4, you are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | There are no restrictions on X Item usage. |
 
 ## Settings String
 
