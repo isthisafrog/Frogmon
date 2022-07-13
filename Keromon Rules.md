@@ -82,8 +82,9 @@ Pokemon Tower healing pad may be used ONLY IF you consider the dungeon done and 
 |---|----------------------------------|---|
 | | <h3>Unlikely to be Implemented</h3> | |
 | More BST Restrictions | No mons 540 BST or higher unless they are evolved into. (Arcanine, Blissey, Gyarados, Kingdra, Milotic, Snorlax, Dragonite, Salamence, etc) | This is a rule I am very unsure about. Taking too many mons out of the viable pool may be annoying and turn people off from using these rules, but at the same time, 540+ BSt are some of the most winning Kaizo mons. |
-| More Banned Abilities | Restrictions for 500+ BST mons  :<br/><br/>Battle Armor/Shell Armor, Clear Body/White Smoke, Shed Skin, Volt Absorb, Water Absorb, Flash Fire, Levitate | I'm not sure if having too many restrictions will be anooying, but at the same time these abilities are very strong when coupled with specific mons (Ie Volt Absorb on Milotic) |
-| | <h3>On-the-Fence Holdover from Survivald</h3> | |
+| | <h3>Thinking about it</h3> | |
+| More Banned Abilities | Restrictions for 540+ BST mons  :<br/><br/>Battle Armor/Shell Armor, Clear Body/White Smoke, Shed Skin, Volt Absorb, Water Absorb, Flash Fire, Levitate | I'm not sure if having too many restrictions will be anooying, but at the same time these abilities are very strong when coupled with specific mons (Ie Volt Absorb on Milotic) |
+| | <h3>On-the-Fence Holdover from Survival</h3> | |
 | PP Item restrictions | You may only use one PP Up per move. No PP Max allowed. You can however trade in PP Max for a single Hyper Potion or 3 status healing items |  You may do the exchange multiple times if you find multiple PP Max |
 | | <h3>On-the-Fence Elite 4 Holdovers from Survival</h3> | |
 | No Boosting Items | In the Elite 4, you are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | |
