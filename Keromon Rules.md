@@ -33,7 +33,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Stay in your weight class |	You may only catch a Pokémon that is up to 4 levels higher than your current Pokémon's level. | |
 | No Healing Moves |	No Healing Moves of any kind (Recover, Milk Drink etc, No Drainpunch etc, No Leech Seed. No Refresh/Aroma etc) No Spore No Assist. This does not include Metronome. |	If your starter pokemon has a banned move, you may use it in the lab fight only. Healing moves are not acceptable to be used under ANY circumstance outside the lab, even if full health. |
 | No Killing Wild Pokémon |	No intentionally fighting any wild Pokémon. |	If a wild mon uses explode/self destruct/momento/etc, that is fine, but avoid defeating wild Pokémon at all costs. Do not abuse encountering Pokemon that are known to have abilities like explode as this will invalidate your run. |
-| Held Items Restriction |	The only Held Items allowed are Evolution items and Consumable Items like berries EXCEPT Focus Sash. | |
+| Held Items Restriction |	The only Held Items allowed are Evolution items and Consumable Items like berries and herbs. | Focus Sash is NOT allowed |
 | No Healing Stations in Dungeons |	No Pokecenter-like healing in Dungeons (Example - Rocket Hideout NPC, SS Anne Bed, etc) |	Forced heals from the story are fine but you cannot go back for more |
 | Banned Items | No use of any flute items for status healing | |
 | No Relearner Abuse |	You may use Move Relearner but cannot relearn the same move repeated times | |
