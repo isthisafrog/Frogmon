@@ -24,7 +24,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 
 | Rule | Details | Notes |
 |---|----------------------------------|---|
-| Randomize the Game | All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%.  | Full randomizer settings below |
+| Randomize the Game | All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%.  | Full randomizer settings found in the "Settings String" section |
 | Choose Your Destiny | You may choose your starter | This means you'll likely be making more lab escapes and as a result, Brock attempts as well.<br/><br/>Don't worry though, there are aspects that will make your journey more difficult... |    
 | BST Restriction | No mons 560 BST or higher unless they are evolved into. (Dragonite, Salamence, etc). | You can find a list of BST (Base Stats Total) <a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VIII-present" title="Bulbapedia">HERE</a> |
 | Banned Abilities | If your Pokemon has BST of 400 or more, the following abilities are banned: Huge Power/Pure Power | You can find a list of BST (Base Stats Total) <a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VIII-present" title="Bulbapedia">HERE</a> |
