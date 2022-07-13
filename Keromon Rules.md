@@ -9,6 +9,7 @@ The short of it, if you are already familiar with Kaizo:
 - All routes are considered mini-dungeons and trainers must be fought before you visit a Pokecenter. If you fail to clear a path necessary for story progress prior to your next Pokecenter visit, you lose. More detailed explanation in the full ruleset.
 - Purchase of items dependent of Pokemon BST after Brock/prior to Route 3
 - TMs are 50% learnable however you can learn from any source: Starter Held Item, Ground Items, Gyms, and Move Tutors. You may only learn 1 TM for every odd number of Gym badges earned. (1st TM after Gym 1, 2nd TM after Gym 3, etc). This means you can potentially learn 4 TMs total by the end of the game. Choose wisely what and when you learn.
+- Moves from Move Tutors are 50% learnable but must follow the limits/restrictions that TMs do.
 - You can use healing items outside of battle only in Towns and Routes (Including Cycling Road and Viridian Forest)
 - You can trade in some specific-type status heals for other specific-type status heals at a 2:1 ratio
 - Flute turn in mechanic (same as Survival)
@@ -55,6 +56,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Fluctuating Growth Rates | All Pokémon have Fluctuating Growth Rate except for Legendaries which are set to Slow. |	This ensures no pokes evolve into a legendary and a lower level for your main in the endgame |
 | Let your Friends Grow |	If a Pokémon is about to evolve, you can’t stop it or use an Everstone. | If you have a pokemon that evolves via a stone, you are not required to use the stone on it.
 | Game Over |	Once your primary Pokémon has fainted, the run is over, and you must restart with a newly randomized game. | |
+| Rival Fights | You do not have to fight the rival in the S.S. Anne immediately.<br/><br/>The rival in Pokemon Tower is fought AFTER obtaining Silph Scope.	| This means that you must do all of Pokémon Tower in one go after getting the Silph Scope. (No re-entries) |
 | HM Restrictions |	No HM Moves in battle | The only time you may teach HM moves is to HM friends |
 | Stolen Items | You may not intentionally steal items from wild pokemon with moves like Thief, Covet, etc. |	If you steal from a pokemon that you do not end up catching in that battle, throw the item away. |
 | Shiny Clause |	If you encounter a shiny, you are allowed to kill it for EXP. |	You may not increase the shiny pokemon rate using the randomizer |
@@ -72,9 +74,7 @@ FireRed LeafGreen Pokemon Randomizer ZX setting string (version 4.5.0 required):
 
 Game Center and Rocket Hideout are considered separate dungeons, and you may heal between defeating the Rocket member in Game Center and going downstairs into Rocket Hideout.
 
-Pokemon Tower Rival is required to fight the first time you enter Lavender Town, but the Tower also requires a revisit later once you get the Silph Scope. This means you may clear as many trainers as you want in your first entry for Rival up until the Silph Scope requirement. On your second entry, you could then clear any trainers you skipped and the 3 new Rocket Trainers after the Silph Scope encounter event.
-
-Pokemon Tower healing pad may be used ONLY IF you consider the dungeon done and will have no more fights for that entry(First for Rival/Second for Silph Scope). If you use the healing pad (which is considered a Pokecenter visit) and encounter another fight during that entry, the run is over. NO EXCEPTIONS.
+Pokemon Tower healing pad may not be used under any circumstances. This means the item on it is unobtainable. NO EXCEPTIONS.
 
 ## Some considerations that may implemented, dependent on testing
 
