@@ -26,7 +26,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Rule | Details | Notes |
 |---|----------------------------------|---|
 | Randomize the Game | All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%.  | Full randomizer settings below |
-| Choose Your Destiny | You may choose your starter | However... (see below) |    
+| Choose Your Destiny | You may choose your starter | This means you'll likely be making more lab escapes and as a result, Brock attempts as well.<br/><br/>However... (see below) |    
 | BST Restriction | No mons 560 BST or higher unless they are evolved into. (Dragonite, Salamence, etc). | You can find a list of BST (Base Stats Total) <a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VIII-present" title="Bulbapedia">HERE</a> |
 | Banned Abilities | If your Pokemon has BST of 500 or more, the following abilities are banned: Battle Armor/Shell Armor, Clear Body/White Smoke, Shed Skin, Volt Absorb, Water Absorb, Flash Fire, Levitate<br/><br/>Additionally, if your Pokemon has BST of 400 or more, the following abilities are banned: Huge Power/Pure Power | You can find a list of BST (Base Stats Total) <a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VIII-present" title="Bulbapedia">HERE</a> |
 | Weak Pokemon may Challenge the Islands | If your pokemon has BST of 499 or less: The Sevii Islands are now legal, but you can only choose to go there or not immediately after exiting Blaine's gym when Bill invites you. | You may not use a Pokemon Center (or equivalent NPC) before leaving Cinnabar or while on the Sevii islands. You may not return to the islands after completing them. |
