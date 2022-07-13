@@ -14,7 +14,7 @@ The short of it, if you are already familiar with Kaizo:
 - You can trade in some single-type status heals for other single-type status heals at a 2:1 ratio
 - Important trainer's Pokemon get held items
 - No excessive stalling
-- No excessive setup in Elite 4
+- No excessive setup moves in Elite 4
 
 Note: As this is still a work in progress, I am gathering feedback and have some possible rule changes listed in the "Proposed Rules" section.
 
