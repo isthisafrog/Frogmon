@@ -54,7 +54,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Stolen Items | You may not intentionally steal items from wild pokemon with moves like Thief, Covet, etc. |	If you steal from a pokemon that you do not end up catching in that battle, throw the item away. |
 | Shiny Clause |	If you encounter a shiny, you are allowed to kill it for EXP. |	You may not increase the shiny pokemon rate using the randomizer |
 | Don't Give Up Without a Fight |	You may not reset before the first battle if you don't like the starter Pokémon. After that it's fine. |	You might be surprised how far you can go with what looks like a terrible starter |
-| Important Trainer's Pokemon get Held Items. | The Randomizer option to add held items to Boss Trainers and Important Trainers must be enabled and set to Sensible Items. | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
+| Important Trainer's Pokemon get Held Items | The Randomizer option to add held items to Boss Trainers and Important Trainers must be enabled and set to Sensible Items. | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
 | No Excessive Stalling | You may only stall 5 turns per battle using balls or any item that is not sacrificed to waste a turn. |	This does not apply to wasting turns for your partner in a double battle. |
 | | <h3>Elite 4 Specific Rules</h3> | |
 | No Boosting Items | In the Elite 4, you are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | |
