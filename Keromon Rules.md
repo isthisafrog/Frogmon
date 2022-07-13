@@ -14,7 +14,7 @@ The short of it, if you are already familiar with Kaizo:
 - You can trade in some single-type status heals for other single-type status heals at a 2:1 ratio
 - Important trainer's Pokemon get held items
 - No excessive stalling
-- Elite 4 Restrictions: X-Item and Setup moves
+- No excessive setup in Elite 4
 
 Note: As this is still a work in progress, I am gathering feedback and have some possible rule changes listed in the "Proposed Rules" section.
 
@@ -59,6 +59,8 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Don't Give Up Without a Fight |	You may not reset before the first battle if you don't like the starter Pokémon. After that it's fine. |	You might be surprised how far you can go with what looks like a terrible starter |
 | Important Trainer's Pokemon get Held Items | The Randomizer option to add held items to Boss Trainers and Important Trainers must be enabled and set to Sensible Items. | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
 | No Excessive Stalling | You may only stall 5 turns per battle using balls or any item that is not sacrificed to waste a turn. |	This does not apply to wasting turns for your partner in a double battle. |
+| | <h3>Elite 4 Specific Rule</h3> | |
+| No Excessive Setup | In the Elite 4, you are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | |
 
 ## Settings String
 
@@ -83,7 +85,6 @@ Pokemon Tower healing pad may be used ONLY IF you consider the dungeon done and 
 | PP Item restrictions | You may only use one PP Up per move. No PP Max allowed. You can however trade in PP Max for a single Hyper Potion or 3 status healing items |  You may do the exchange multiple times if you find multiple PP Max |
 | | <h3>On-the-Fence Elite 4 Holdovers from Survival</h3> | |
 | No Boosting Items | In the Elite 4, you are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | |
-| No Excessive Setup | In the Elite 4, you are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | |
 
 
 ## Recommended Resources
