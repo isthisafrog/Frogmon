@@ -10,9 +10,9 @@ The short of it, if you are already familiar with Kaizo:
 - Purchase of items dependent of Pokemon BST after Brock/prior to Route 3
 - PP Max restriction with item trade-in
 - TMs are 50% learnable however you can learn from any source: Ground Items, Gyms, and Move Tutors. You may only learn 1 TM for every odd number of Gym badges earned. (1st TM after Gym 1, 2nd TM after Gym 3, etc). This means you can potentially learn 4 TMs total by the end of the game.
-- You can use healing items outside of battle only in Towns and Routes (Including Cycling Road)
+- You can use healing items outside of battle only in Towns and Routes (Including Cycling Road and Viridian Forest)
 - You can trade in some single-type status heals for other single-type status heals at a 2:1 ratio
-- Important trainer Pokemon get held items
+- Important trainer's Pokemon get held items
 - No excessive stalling
 - Elite 4 Restrictions: X-Item and Setup moves
 
@@ -47,7 +47,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Prepare for the Gauntlet | Immediately after defeating Brock, you may purchase a number of potions and status healing items from Pewter City Mart dependent on the BST of your current Pokemon. Eligible status healing items: Antidote, Parlyz Heal, Awakening, Burn Heal.<br/><br/>You must purchase these prior to starting Route 3 trainers. | 500+ BST: 5 Potions, 1 status healing item<br/><br/>450-499 BST: 10 Potions 2 status healing items<br/><br/>400-449 BST: 15 Potions 3 status healing items<br/><br/>175-399 BST: 20 Potions 4 status healing items |
 | No Additional Shops |	The only shop visit allowed is the post-Brock one, as noted above. Otherwise, you can only use items that you pick up. No use of stores except for Pokeballs, Repels, and the Status Healing Item exchange and PP Max exchange noted in separate rules. |	You may not abuse respawning items by picking them up more than once (Mt. Moon, Underground paths, Swimming routes) |
 | Status Heal trade-in | Status heals of one specific type may be traded in at a 2:1 ratio for status heals of another specific type. | For example, 2 Antidotes for 1 Paralyze Heal. No Full Heals or Full Restores. (Eligible types: Antidote, Ice Heal, Burn Heal, Paralyze Heal) <br/><br/>No mixing and matching. You cannot trade in 1 Ice Heal + 1 Awakeing for 1 Antidote. |
-| Healing Item Restrictions | You may use items outside of battle only in Routes and Towns | This means you cannot use items outside of battle in Mt. Moon, S.S. Anne, Rock Tunnel, Game Center, Rocket Hideout, Pokemon Tower, Pokemon Mansion, Silph Co, Fighting Dojo, all Gyms, Victory Road, and Elite 4. |
+| Healing Item Restrictions | You may use items outside of battle only in Towns and Routes (Including Cycling Road and Viridian Forest) | This means you cannot use items outside of battle in Mt. Moon, S.S. Anne, Rock Tunnel, Game Center, Rocket Hideout, Pokemon Tower, Pokemon Mansion, Silph Co, Fighting Dojo, all Gyms, Victory Road, and Elite 4. |
 | PP Item restrictions | You may only use one PP Up per move. No PP Max allowed. You can however trade in PP Max for a single Hyper Potion or 3 status healing items |  You may do the exchange multiple times if you find multiple PP Max |
 | TM Restrictions | All TMs are 50% randomly learnable. You may use TMs from most sources: Starter held item, Ground Items, Gyms, and Move Tutors. You can learn one TM for each odd numbered Gym badge you obtain. This means you can learn a total of 4 TMs. (After Gyms 1,3,5,7) | This means that any TM you on the ground or earned from a Gym will potentially be learnable.<br/><br/>Under this rule, you cannot learn the TM that a starter/lab mon may be carrying until you earn your first badge.<br/><br/>TMs held by any Pokemon you catch in the wild (Pivots, HM friends) may NOT be used unless found elsewhere at a later time.<br/><br/>You may NOT use TMs held by purchased Pokemon (ie Magikarp before Mt. Moon). |
 | Move Tutors | You may learn from move tutors, however they count towards both the TM limit as well as must follow the TM learning restrictions (See TM Restrictions rule above) | |
