@@ -83,8 +83,9 @@ Pokemon Tower healing pad may not be used under any circumstances. This means th
 |---|----------------------------------|---|
 | | <h3>Highly unlikely to be implemented</h3> | |
 | More BST Restrictions | No mons 540 BST or higher unless they are evolved into. (Arcanine, Blissey, Gyarados, Kingdra, Milotic, Snorlax, Dragonite, Salamence, etc) | This is a rule I am very unsure about. Taking too many mons out of the viable pool may be annoying and turn people off from using these rules, but at the same time, 540+ BSt are some of the most winning Kaizo mons. |
-| | <h3>Thinking about it</h3> | |
 | More Banned Abilities | Restrictions for 540+ BST mons  :<br/><br/>Battle Armor/Shell Armor, Clear Body/White Smoke, Shed Skin, Volt Absorb, Water Absorb, Flash Fire, Levitate | I'm not sure if having too many restrictions will be annoying, but at the same time these abilities are very strong when coupled with specific mons (Ie Volt Absorb on Milotic) |
+| | <h3>Thinking about it</h3> | |
+| Emergency Room | ONCE per run, you may visit a Pokecenter WITHOUT any impact on the current Route/Mini-Dungeon. This supercedes all other rules regarding Mini-Dungeons
 | | <h3>On-the-Fence Holdover from Survival</h3> | |
 | PP Item restrictions | You may only use one PP Up per move. No PP Max allowed. You can however trade in PP Max for a single Hyper Potion or 3 status healing items |  This isn't a full survival ruleset so I don't think this restriction is required. |
 | | <h3>On-the-Fence Elite 4 Holdovers from Survival</h3> | |
