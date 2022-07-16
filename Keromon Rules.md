@@ -4,7 +4,6 @@ Keromon - Gauntlet Ironmon
 <b>What is the goal?</b> A tougher Kaizo-like experience that offers a blend of traditional Kaizo and Survival rulesets, as well as introducing new rules. The intention is to be a slightly more difficult than Kaizo, but with a fresh spin.
 
 The short of it, if you are already familiar with Kaizo:
-- You can now choose your starter mon (Controversial, I know)
 - 499 or less BST can go to Sevii Islands
 - All routes are considered mini-dungeons and trainers must be fought before you visit a Pokecenter. If you fail to clear a path necessary for story progress prior to your next Pokecenter visit, you lose. More detailed explanation in the full ruleset.
 - Purchase of items dependent of Pokemon BST after Brock/prior to Route 3
