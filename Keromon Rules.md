@@ -91,6 +91,13 @@ Pokemon Tower healing pad may not be used under any circumstances. This means th
 | | <h3>On-the-Fence Elite 4 Holdovers from Survival</h3> | |
 | No Boosting Items | In the Elite 4, you are no longer allowed to use boosting items like X Items/Dire Hits/Guard Specs etc. other than those that are consumable held items | Boosting items only give +1 to a stat. Generally the setup moves are the big problem, and those usually give +1 to two different stats or +2 to a single stat. I don't think this rule is required here. |
 
+## Route Mini-Dungeon Map
+
+In total there are 19 routes that are considered mini-dungeons. Note that the following are considered single mini-dungeons:
+- Route 10 (Rock Tunnel entrance, Power Plant, Rock Tunnel exit)
+- Route 20 (East and West of Seafoam Islands)
+
+![Kanto_Map_Test](https://user-images.githubusercontent.com/109041571/179871681-39dc913a-cb07-49f4-85c1-e911d7186e19.jpg)
 
 ## Recommended Resources
 
