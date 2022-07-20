@@ -1,4 +1,4 @@
-# Keromon (Currently in planning+testing phase)
+# Keromon (Currently in Final Testing Phase)
 Keromon - Gauntlet Ironmon
 
 <b>What is the goal?</b> A tougher Kaizo-like experience that offers a blend of traditional Kaizo and Survival rulesets, as well as introducing new rules. The intention is to be a slightly more difficult than Kaizo, but with a fresh spin.
