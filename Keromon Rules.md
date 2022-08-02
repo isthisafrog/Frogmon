@@ -11,7 +11,7 @@ The short of it, if you are already familiar with Kaizo:
 - Moves from Move Tutors are 50% learnable but must follow the limits/restrictions that TMs do.
 - You can use healing items outside of battle only in Towns and Routes (Including Cycling Road and Viridian Forest)
 - Flute turn in mechanic (same as Survival)
-- Nugget turn in machanic
+- Nugget turn in mechanic
 - Important trainer's Pokemon get held items
 - No excessive stalling
 - No excessive setup moves in Elite 4
@@ -33,7 +33,7 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Mini-Dungeon Exceptions | Viridian Forest, as it would be nearly impossible to get through the early game if this was considered a dungeon<br/><br/>Pokemon tower, as it must be entered twice for in initial Rival fight (as per standard kaizo rules) and then story progression (Silph Scope)<br/><br/>Rival in Celeadon and the Rocket behind the house in Celadon are considered separate mini-dungeons. |
 | Prepare for the Gauntlet | Immediately after defeating Brock, you may purchase a number of potions and status healing items from Pewter City Mart dependent on the BST of your current Pokemon. Eligible status healing items: Antidote, Parlyz Heal, Awakening, Burn Heal.<br/><br/>You must purchase these prior to starting Route 3 trainers. | 500+ BST: 5 Potions, 2 status healing item<br/><br/>450-499 BST: 10 Potions 3 status healing items<br/><br/>400-449 BST: 15 Potions 4 status healing items<br/><br/>175-399 BST: 20 Potions 5 status healing items |
 | No Additional Shops |	The only shop visit allowed is the post-Brock one, as noted above. Otherwise, you can only use items that you pick up. No use of stores except for Pokeballs, Repels, and Item Set Trade-Ins noted in separate rules. |	You may not abuse respawning items by picking them up more than once (Mt. Moon, Underground paths, Swimming routes) |
-| Spicy Nuggets | You can now trade in 3 Nuggets for a single (1) Full Restore (Available from Indigo Plateau Mart) | If you find multiple sets of 3 (ie 6 total, 9 total) you can do this exchange multiple times |
+| Golden Nuggets | You can now trade in 3 Nuggets for a single (1) Full Restore (Available from Indigo Plateau Mart) | If you find multiple sets of 3 (ie 6 total, 9 total, etc) you can do this exchange multiple times |
 | Healing Item Restrictions | You may use items outside of battle only in Towns and Routes (Including Cycling Road and Viridian Forest) | This means you cannot use items outside of battle in Mt. Moon, S.S. Anne, Rock Tunnel, Game Center, Rocket Hideout, Pokemon Tower, Pokemon Mansion, Silph Co, Fighting Dojo, all Gyms, Victory Road, and Elite 4. |
 | | <h3>Kaizo and Survival Borrowed Rules</h3> | |
 | Randomize the Game | All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%.  | Full randomizer settings found in the "Settings String" section |
