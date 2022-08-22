@@ -1,4 +1,4 @@
-# Keromon (Currently in Final Testing Phase)
+# Keromon
 Keromon - Gauntlet Ironmon
 
 <b>What is the goal?</b> A tougher Kaizo-like experience that offers a blend of traditional Kaizo and Survival rulesets, as well as introducing new rules. The intention is to be a slightly more difficult than Kaizo, but with a fresh spin.
@@ -15,8 +15,6 @@ The short of it, if you are already familiar with Kaizo:
 - Important trainer's Pokemon get held items
 - No excessive stalling
 - No excessive setup moves in Elite 4
-
-Note: As this is still a work in progress, I am gathering feedback and have some possible rule changes listed in the "Proposed Rules" section.
 
 Based off the official ironmon ruleset: https://ironmon.gg
 
