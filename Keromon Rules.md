@@ -13,7 +13,6 @@ The short of it, if you are already familiar with Kaizo:
 - Flute turn in mechanic (same as Survival)
 - Nugget turn in mechanic
 - Important trainer's Pokemon get held items
-- No excessive stalling
 - No excessive setup moves in Elite 4
 
 Based off the official ironmon ruleset: https://ironmon.gg
@@ -59,7 +58,6 @@ Based off the official ironmon ruleset: https://ironmon.gg
 | Shiny Clause |	If you encounter a shiny, you are allowed to kill it for EXP. |	You may not increase the shiny pokemon rate using the randomizer |
 | Don't Give Up Without a Fight |	You may not reset before the first battle if you don't like the starter Pokémon. After that it's fine. |	You might be surprised how far you can go with what looks like a terrible starter |
 | Important Trainer's Pokemon get Held Items | The Randomizer option to add held items to Boss Trainers and Important Trainers must be enabled and set to Sensible Items. | If you steal an item from a trainer that you are not allowed to hold, you must remove it once the battle ends. |
-| No Excessive Stalling | You may only stall 5 turns per battle using balls or any item that is not sacrificed to waste a turn. |	This does not apply to wasting turns for your partner in a double battle. |
 | | <h3>Elite 4 Specific Rule</h3> | |
 | No Excessive Setup | In the Elite 4, you are allowed to use ONE (1) non-combat stat boosting move ONCE per fight. Calm Mind/Swords Dance/Iron Defense etc. | There are no restrictions on X Item usage. |
 
